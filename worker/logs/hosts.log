@@ -1,0 +1,1891 @@
+2017/12/20 13:27:10 icmp onet.pl OK
+2017/12/20 13:27:10 http onet.pl OK
+2017/12/20 13:27:10 icmp wp.pl OK
+2017/12/20 13:27:11 http wp.pl OK
+2017/12/20 13:27:11 icmp 8.8.8.8 OK
+2017/12/20 13:27:16 http 8.8.8.8 CRITICAL
+2017/12/20 13:38:00 icmp onet.pl OK
+2017/12/20 13:38:02 http onet.pl OK
+2017/12/20 13:38:03 icmp wp.pl OK
+2017/12/20 13:38:03 http wp.pl OK
+2017/12/20 13:38:03 icmp 8.8.8.8 OK
+2017/12/20 13:38:08 http 8.8.8.8 CRITICAL
+2017/12/20 13:38:30 icmp onet.pl OK
+2017/12/20 13:38:31 http onet.pl OK
+2017/12/20 13:38:31 icmp wp.pl OK
+2017/12/20 13:38:31 http wp.pl OK
+2017/12/20 13:38:31 icmp 8.8.8.8 OK
+2017/12/20 13:38:36 http 8.8.8.8 CRITICAL
+2017/12/20 13:41:01 hello world OK
+2017/12/20 13:41:01 icmp onet.pl OK
+2017/12/20 13:41:01 http onet.pl OK
+2017/12/20 13:41:01 icmp wp.pl OK
+2017/12/20 13:41:02 http wp.pl OK
+2017/12/20 13:41:02 icmp 8.8.8.8 OK
+2017/12/20 13:41:07 http 8.8.8.8 CRITICAL
+2017/12/20 13:54:21 icmp onet.pl OK
+2017/12/20 13:54:22 http onet.pl OK
+2017/12/20 13:54:22 icmp wp.pl OK
+2017/12/20 13:54:22 http wp.pl OK
+2017/12/20 13:54:22 icmp 8.8.8.8 OK
+2017/12/20 13:54:27 http 8.8.8.8 CRITICAL
+2017/12/20 13:55:03 icmp onet.pl OK
+2017/12/20 13:55:04 http onet.pl OK
+2017/12/20 13:55:04 icmp wp.pl OK
+2017/12/20 13:55:04 http wp.pl OK
+2017/12/20 13:55:04 icmp 8.8.8.8 OK
+2017/12/20 13:55:09 http 8.8.8.8 CRITICAL
+2017/12/20 13:56:51 icmp onet.pl OK
+2017/12/20 13:56:51 http onet.pl OK
+2017/12/20 13:56:51 icmp wp.pl OK
+2017/12/20 13:56:52 http wp.pl OK
+2017/12/20 13:56:52 icmp 8.8.8.8 OK
+2017/12/20 13:56:57 http 8.8.8.8 CRITICAL
+2017/12/20 14:24:13 icmp onet.pl OK
+2017/12/20 14:24:14 http onet.pl OK
+2017/12/20 14:24:14 icmp wp.pl OK
+2017/12/20 14:24:14 http wp.pl OK
+2017/12/20 14:24:14 icmp 8.8.8.8 OK
+2017/12/20 14:24:19 http 8.8.8.8 CRITICAL
+2017/12/20 14:24:38 icmp onet.pl OK
+2017/12/20 14:24:39 http onet.pl OK
+2017/12/20 14:24:39 icmp wp.pl OK
+2017/12/20 14:24:39 http wp.pl OK
+2017/12/20 14:24:39 icmp 8.8.8.8 OK
+2017/12/20 14:24:44 http 8.8.8.8 CRITICAL
+2017/12/20 14:25:19 icmp onet.pl OK
+2017/12/20 14:25:19 http onet.pl OK
+2017/12/20 14:25:19 icmp wp.pl OK
+2017/12/20 14:25:20 http wp.pl OK
+2017/12/20 14:25:20 icmp 8.8.8.8 OK
+2017/12/20 14:25:25 http 8.8.8.8 CRITICAL
+2017/12/20 14:26:03 icmp onet.pl OK
+2017/12/20 14:26:03 http onet.pl OK
+2017/12/20 14:26:03 icmp wp.pl OK
+2017/12/20 14:26:04 http wp.pl OK
+2017/12/20 14:26:04 icmp 8.8.8.8 OK
+2017/12/20 14:26:09 http 8.8.8.8 CRITICAL
+2017/12/20 14:49:42 icmp onet.pl OK
+2017/12/20 14:50:07 icmp onet.pl OK
+2017/12/20 14:50:39 icmp onet.pl OK
+2017/12/20 14:51:50 icmp onet.pl OK
+2017/12/20 14:54:09 icmp onet.pl OK
+2017/12/20 14:54:33 icmp onet.pl OK
+2017/12/20 14:54:34 http onet.pl OK
+2017/12/20 14:54:34 icmp wp.pl OK
+2017/12/20 14:54:34 http wp.pl OK
+2017/12/20 14:54:34 icmp 8.8.8.8 OK
+2017/12/20 14:54:39 http 8.8.8.8 CRITICAL
+2017/12/20 14:55:00 icmp onet.pl OK
+2017/12/20 14:55:00 http onet.pl OK
+2017/12/20 14:55:00 icmp wp.pl OK
+2017/12/20 14:55:01 http wp.pl OK
+2017/12/20 14:55:01 icmp 8.8.8.8 OK
+2017/12/20 14:55:06 http 8.8.8.8 CRITICAL
+2017/12/20 14:55:25 icmp onet.pl OK
+2017/12/20 14:55:26 http onet.pl OK
+2017/12/20 14:55:26 icmp wp.pl OK
+2017/12/20 14:55:26 http wp.pl OK
+2017/12/20 14:55:26 icmp 8.8.8.8 OK
+2017/12/20 14:55:31 http 8.8.8.8 CRITICAL
+2017/12/20 14:58:03 icmp onet.pl OK
+2017/12/20 14:58:18 icmp onet.pl OK
+2017/12/20 14:58:49 icmp onet.pl OK
+2017/12/20 14:58:50 http onet.pl OK
+2017/12/20 14:58:50 icmp wp.pl OK
+2017/12/20 14:58:50 http wp.pl OK
+2017/12/20 14:58:50 icmp 8.8.8.8 OK
+2017/12/20 14:58:55 http 8.8.8.8 CRITICAL
+2017/12/20 15:00:24 icmp onet.pl OK
+2017/12/20 15:00:25 http onet.pl OK
+2017/12/20 15:00:25 icmp wp.pl OK
+2017/12/20 15:00:25 http wp.pl OK
+2017/12/20 15:00:25 icmp 8.8.8.8 OK
+2017/12/20 15:00:30 http 8.8.8.8 CRITICAL
+2017/12/20 15:00:34 icmp onet.pl OK
+2017/12/20 15:00:34 http onet.pl OK
+2017/12/20 15:00:34 icmp wp.pl OK
+2017/12/20 15:00:35 http wp.pl OK
+2017/12/20 15:00:35 icmp 8.8.8.8 OK
+2017/12/20 15:00:40 http 8.8.8.8 CRITICAL
+2017/12/20 15:01:13 icmp onet.pl OK
+2017/12/20 15:01:13 http onet.pl OK
+2017/12/20 15:01:13 icmp wp.pl OK
+2017/12/20 15:01:14 http wp.pl OK
+2017/12/20 15:01:14 icmp 8.8.8.8 OK
+2017/12/20 15:01:19 http 8.8.8.8 CRITICAL
+2017/12/20 15:01:54 icmp onet.pl OK
+2017/12/20 15:01:54 http onet.pl OK
+2017/12/20 15:01:54 icmp wp.pl OK
+2017/12/20 15:01:55 http wp.pl OK
+2017/12/20 15:01:55 icmp 8.8.8.8 OK
+2017/12/20 15:02:00 http 8.8.8.8 CRITICAL
+2017/12/20 15:08:05 icmp onet.pl OK
+2017/12/20 15:08:06 http onet.pl OK
+2017/12/20 15:08:06 icmp wp.pl OK
+2017/12/20 15:08:07 http wp.pl OK
+2017/12/20 15:08:07 icmp 8.8.8.8 OK
+2017/12/20 15:08:12 http 8.8.8.8 CRITICAL
+2017/12/20 15:08:17 icmp onet.pl OK
+2017/12/20 15:08:17 http onet.pl OK
+2017/12/20 15:08:17 icmp wp.pl OK
+2017/12/20 15:08:18 http wp.pl OK
+2017/12/20 15:08:18 icmp 8.8.8.8 OK
+2017/12/20 15:08:23 http 8.8.8.8 CRITICAL
+2017/12/20 15:09:08 icmp onet.pl OK
+2017/12/20 15:09:08 http onet.pl OK
+2017/12/20 15:09:08 icmp wp.pl OK
+2017/12/20 15:09:09 http wp.pl OK
+2017/12/20 15:09:09 icmp 8.8.8.8 OK
+2017/12/20 15:09:14 http 8.8.8.8 CRITICAL
+2017/12/20 15:41:38 icmp onet.pl OK
+2017/12/20 15:41:38 http onet.pl OK
+2017/12/20 15:41:38 icmp wp.pl OK
+2017/12/20 15:41:39 http wp.pl OK
+2017/12/20 15:41:39 icmp 8.8.8.8 OK
+2017/12/20 15:41:44 http 8.8.8.8 CRITICAL
+2017/12/20 15:42:23 icmp onet.pl OK
+2017/12/20 15:42:23 http onet.pl OK
+2017/12/20 15:42:23 icmp wp.pl OK
+2017/12/20 15:42:24 http wp.pl OK
+2017/12/20 15:42:24 icmp 8.8.8.8 OK
+2017/12/20 15:42:29 http 8.8.8.8 CRITICAL
+2017/12/20 15:42:34 http: panic serving [::1]:57768: sql: expected 5 destination arguments in Scan, not 4
+goroutine 65 [running]:
+net/http.(*conn).serve.func1(0xc4202b97c0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc42018a0d0)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc4200aec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x37b
+main.dashboard.func1(0x46c46e0, 0xc420406700, 0xc420512400)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:412 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc420278310, 0x46c46e0, 0xc420406700, 0xc420512400)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc420406700, 0xc420512400)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201d2410, 0x46c46e0, 0xc420406700, 0xc420512400)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4202b97c0, 0x46c4de0, 0xc42013eb00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:42:34 http: panic serving [::1]:57769: sql: expected 5 destination arguments in Scan, not 4
+goroutine 15 [running]:
+net/http.(*conn).serve.func1(0xc4201b1ae0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc42018a1c0)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc4200aec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x37b
+main.dashboard.func1(0x46c46e0, 0xc420406b60, 0xc420512500)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:412 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc420278310, 0x46c46e0, 0xc420406b60, 0xc420512500)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc420406b60, 0xc420512500)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201d2410, 0x46c46e0, 0xc420406b60, 0xc420512500)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4201b1ae0, 0x46c4de0, 0xc42013ec00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:42:34 http: panic serving [::1]:57770: sql: expected 5 destination arguments in Scan, not 4
+goroutine 16 [running]:
+net/http.(*conn).serve.func1(0xc4201b1b80)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc42018a260)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc4200aec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x37b
+main.dashboard.func1(0x46c46e0, 0xc420406d20, 0xc420160000)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:412 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc420278310, 0x46c46e0, 0xc420406d20, 0xc420160000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc420406d20, 0xc420160000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201d2410, 0x46c46e0, 0xc420406d20, 0xc420160000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4201b1b80, 0x46c4de0, 0xc420332240)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:42:34 http: panic serving [::1]:57771: sql: expected 5 destination arguments in Scan, not 4
+goroutine 91 [running]:
+net/http.(*conn).serve.func1(0xc420506000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc42018a2f0)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc4200aec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x37b
+main.dashboard.func1(0x46c46e0, 0xc420407500, 0xc420160200)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:412 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc420278310, 0x46c46e0, 0xc420407500, 0xc420160200)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc420407500, 0xc420160200)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201d2410, 0x46c46e0, 0xc420407500, 0xc420160200)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc420506000, 0x46c4de0, 0xc4203327c0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:42:34 http: panic serving [::1]:57772: sql: expected 5 destination arguments in Scan, not 4
+goroutine 95 [running]:
+net/http.(*conn).serve.func1(0xc4205060a0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc4202560f0)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc4200aec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x37b
+main.dashboard.func1(0x46c46e0, 0xc4201f6000, 0xc420160400)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:412 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc420278310, 0x46c46e0, 0xc4201f6000, 0xc420160400)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4201f6000, 0xc420160400)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201d2410, 0x46c46e0, 0xc4201f6000, 0xc420160400)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4205060a0, 0x46c4de0, 0xc420332940)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:43:08 http: panic serving [::1]:57776: sql: expected 5 destination arguments in Scan, not 4
+goroutine 99 [running]:
+net/http.(*conn).serve.func1(0xc4202b9860)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc420278510)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc4200aec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x37b
+main.dashboard.func1(0x46c46e0, 0xc4202d80e0, 0xc420512600)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:412 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc420278310, 0x46c46e0, 0xc4202d80e0, 0xc420512600)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4202d80e0, 0xc420512600)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201d2410, 0x46c46e0, 0xc4202d80e0, 0xc420512600)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4202b9860, 0x46c4de0, 0xc42013ecc0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:43:08 http: panic serving [::1]:57777: sql: expected 5 destination arguments in Scan, not 4
+goroutine 100 [running]:
+net/http.(*conn).serve.func1(0xc4200ae000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc420278630)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc4200aec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x37b
+main.dashboard.func1(0x46c46e0, 0xc4202d82a0, 0xc420512700)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:412 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc420278310, 0x46c46e0, 0xc4202d82a0, 0xc420512700)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4202d82a0, 0xc420512700)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201d2410, 0x46c46e0, 0xc4202d82a0, 0xc420512700)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4200ae000, 0x46c4de0, 0xc42013ed40)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:43:08 http: panic serving [::1]:57778: sql: expected 5 destination arguments in Scan, not 4
+goroutine 101 [running]:
+net/http.(*conn).serve.func1(0xc4200ae5a0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc420278710)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc4200aec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x37b
+main.dashboard.func1(0x46c46e0, 0xc4202d8460, 0xc420512800)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:412 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc420278310, 0x46c46e0, 0xc4202d8460, 0xc420512800)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4202d8460, 0xc420512800)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201d2410, 0x46c46e0, 0xc4202d8460, 0xc420512800)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4200ae5a0, 0x46c4de0, 0xc42013ee40)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:43:08 http: panic serving [::1]:57779: sql: expected 5 destination arguments in Scan, not 4
+goroutine 111 [running]:
+net/http.(*conn).serve.func1(0xc4200af0e0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc420278800)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc4200aec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x37b
+main.dashboard.func1(0x46c46e0, 0xc4202d8a80, 0xc420512900)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:412 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc420278310, 0x46c46e0, 0xc4202d8a80, 0xc420512900)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4202d8a80, 0xc420512900)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201d2410, 0x46c46e0, 0xc4202d8a80, 0xc420512900)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4200af0e0, 0x46c4de0, 0xc42013f300)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:43:13 http: panic serving [::1]:57780: sql: expected 5 destination arguments in Scan, not 4
+goroutine 115 [running]:
+net/http.(*conn).serve.func1(0xc4200af180)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc420278890)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc4200aec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x37b
+main.dashboard.func1(0x46c46e0, 0xc4202d8b60, 0xc420512a00)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:412 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc420278310, 0x46c46e0, 0xc4202d8b60, 0xc420512a00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4202d8b60, 0xc420512a00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201d2410, 0x46c46e0, 0xc4202d8b60, 0xc420512a00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4200af180, 0x46c4de0, 0xc42013f480)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:43:17 http: panic serving [::1]:57788: sql: expected 5 destination arguments in Scan, not 4
+goroutine 119 [running]:
+net/http.(*conn).serve.func1(0xc4200af5e0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc420278920)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc4200aec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x37b
+main.dashboard.func1(0x46c46e0, 0xc4202d8c40, 0xc420512b00)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:412 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc420278310, 0x46c46e0, 0xc4202d8c40, 0xc420512b00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4202d8c40, 0xc420512b00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201d2410, 0x46c46e0, 0xc4202d8c40, 0xc420512b00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4200af5e0, 0x46c4de0, 0xc42013f600)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:43:17 http: panic serving [::1]:57789: sql: expected 5 destination arguments in Scan, not 4
+goroutine 123 [running]:
+net/http.(*conn).serve.func1(0xc4200af860)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc4202789c0)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc4200aec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x37b
+main.dashboard.func1(0x46c46e0, 0xc4202d8d20, 0xc420512c00)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:412 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc420278310, 0x46c46e0, 0xc4202d8d20, 0xc420512c00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4202d8d20, 0xc420512c00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201d2410, 0x46c46e0, 0xc4202d8d20, 0xc420512c00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4200af860, 0x46c4de0, 0xc42013f780)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:43:24 http: panic serving [::1]:57812: sql: expected 5 destination arguments in Scan, not 4
+goroutine 96 [running]:
+net/http.(*conn).serve.func1(0xc4205063c0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc420278a90)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc4200aec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x37b
+main.dashboard.func1(0x46c46e0, 0xc4202d8ee0, 0xc420160500)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:412 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc420278310, 0x46c46e0, 0xc4202d8ee0, 0xc420160500)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4202d8ee0, 0xc420160500)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201d2410, 0x46c46e0, 0xc4202d8ee0, 0xc420160500)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4205063c0, 0x46c4de0, 0xc4203329c0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:43:24 http: panic serving [::1]:57813: sql: expected 5 destination arguments in Scan, not 4
+goroutine 130 [running]:
+net/http.(*conn).serve.func1(0xc4200af9a0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc420278bc0)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc4200aec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x37b
+main.dashboard.func1(0x46c46e0, 0xc4202d90a0, 0xc420512d00)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:412 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc420278310, 0x46c46e0, 0xc4202d90a0, 0xc420512d00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4202d90a0, 0xc420512d00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201d2410, 0x46c46e0, 0xc4202d90a0, 0xc420512d00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4200af9a0, 0x46c4de0, 0xc42013fa00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:43:27 http: panic serving [::1]:57814: sql: expected 5 destination arguments in Scan, not 4
+goroutine 134 [running]:
+net/http.(*conn).serve.func1(0xc4200afa40)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc420278d30)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc4200aec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x37b
+main.dashboard.func1(0x46c46e0, 0xc4202d9260, 0xc420512e00)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:412 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc420278310, 0x46c46e0, 0xc4202d9260, 0xc420512e00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4202d9260, 0xc420512e00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201d2410, 0x46c46e0, 0xc4202d9260, 0xc420512e00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4200afa40, 0x46c4de0, 0xc42013fb80)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:43:27 http: panic serving [::1]:57815: sql: expected 5 destination arguments in Scan, not 4
+goroutine 138 [running]:
+net/http.(*conn).serve.func1(0xc4200afae0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc420278dc0)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc4200aec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x37b
+main.dashboard.func1(0x46c46e0, 0xc4202d9500, 0xc420512f00)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:412 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc420278310, 0x46c46e0, 0xc4202d9500, 0xc420512f00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4202d9500, 0xc420512f00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201d2410, 0x46c46e0, 0xc4202d9500, 0xc420512f00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4200afae0, 0x46c4de0, 0xc42013fd00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:43:28 http: panic serving [::1]:57816: sql: expected 5 destination arguments in Scan, not 4
+goroutine 142 [running]:
+net/http.(*conn).serve.func1(0xc4200afb80)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc420278e50)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc4200aec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x37b
+main.dashboard.func1(0x46c46e0, 0xc4202d9880, 0xc420513000)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:412 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc420278310, 0x46c46e0, 0xc4202d9880, 0xc420513000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4202d9880, 0xc420513000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201d2410, 0x46c46e0, 0xc4202d9880, 0xc420513000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4200afb80, 0x46c4de0, 0xc42013fe80)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:43:28 http: panic serving [::1]:57817: sql: expected 5 destination arguments in Scan, not 4
+goroutine 146 [running]:
+net/http.(*conn).serve.func1(0xc4200afc20)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc420278ef0)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc4200aec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x37b
+main.dashboard.func1(0x46c46e0, 0xc4202d9c00, 0xc420513100)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:412 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc420278310, 0x46c46e0, 0xc4202d9c00, 0xc420513100)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4202d9c00, 0xc420513100)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201d2410, 0x46c46e0, 0xc4202d9c00, 0xc420513100)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4200afc20, 0x46c4de0, 0xc42018e040)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:43:58 icmp onet.pl OK
+2017/12/20 15:43:58 http onet.pl OK
+2017/12/20 15:43:58 icmp wp.pl OK
+2017/12/20 15:43:58 http wp.pl OK
+2017/12/20 15:43:58 icmp 8.8.8.8 OK
+2017/12/20 15:44:03 http 8.8.8.8 CRITICAL
+2017/12/20 15:44:09 http: panic serving [::1]:57861: sql: expected 5 destination arguments in Scan, not 4
+goroutine 78 [running]:
+net/http.(*conn).serve.func1(0xc420299d60)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc42022a040)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ed20, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x37b
+main.dashboard.func1(0x46c46e0, 0xc4202861c0, 0xc420526400)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:412 +0x48
+net/http.HandlerFunc.ServeHTTP(0xc42024e490, 0x46c46e0, 0xc4202861c0, 0xc420526400)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4202861c0, 0xc420526400)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4205ac340, 0x46c46e0, 0xc4202861c0, 0xc420526400)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc420299d60, 0x46c4de0, 0xc4201327c0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:44:09 http: panic serving [::1]:57862: sql: expected 5 destination arguments in Scan, not 4
+goroutine 83 [running]:
+net/http.(*conn).serve.func1(0xc420232c80)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc420010ce0)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ed20, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x37b
+main.dashboard.func1(0x46c46e0, 0xc4201360e0, 0xc420526000)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:412 +0x48
+net/http.HandlerFunc.ServeHTTP(0xc42024e490, 0x46c46e0, 0xc4201360e0, 0xc420526000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4201360e0, 0xc420526000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4205ac340, 0x46c46e0, 0xc4201360e0, 0xc420526000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc420232c80, 0x46c4de0, 0xc4202d0140)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:44:09 http: panic serving [::1]:57863: sql: expected 5 destination arguments in Scan, not 4
+goroutine 47 [running]:
+net/http.(*conn).serve.func1(0xc420166500)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc420010d70)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ed20, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x37b
+main.dashboard.func1(0x46c46e0, 0xc4201361c0, 0xc4204b2000)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:412 +0x48
+net/http.HandlerFunc.ServeHTTP(0xc42024e490, 0x46c46e0, 0xc4201361c0, 0xc4204b2000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4201361c0, 0xc4204b2000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4205ac340, 0x46c46e0, 0xc4201361c0, 0xc4204b2000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc420166500, 0x46c4de0, 0xc4201581c0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:44:09 http: panic serving [::1]:57864: sql: expected 5 destination arguments in Scan, not 4
+goroutine 99 [running]:
+net/http.(*conn).serve.func1(0xc4201665a0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc420010e00)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ed20, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x37b
+main.dashboard.func1(0x46c46e0, 0xc4201362a0, 0xc4204b2100)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:412 +0x48
+net/http.HandlerFunc.ServeHTTP(0xc42024e490, 0x46c46e0, 0xc4201362a0, 0xc4204b2100)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4201362a0, 0xc4204b2100)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4205ac340, 0x46c46e0, 0xc4201362a0, 0xc4204b2100)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4201665a0, 0x46c4de0, 0xc420158340)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:45:24 icmp onet.pl OK
+2017/12/20 15:45:25 http onet.pl OK
+2017/12/20 15:45:25 icmp wp.pl OK
+2017/12/20 15:45:25 http wp.pl OK
+2017/12/20 15:45:25 icmp 8.8.8.8 OK
+2017/12/20 15:45:30 http 8.8.8.8 CRITICAL
+2017/12/20 15:45:35 http: panic serving [::1]:57912: sql: expected 5 destination arguments in Scan, not 4
+goroutine 84 [running]:
+net/http.(*conn).serve.func1(0xc420384be0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc4202844f0)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc4200aec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x4aa
+main.dashboard.func1(0x46c46e0, 0xc42014a1c0, 0xc42019e500)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:413 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc4202843f0, 0x46c46e0, 0xc42014a1c0, 0xc42019e500)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc42014a1c0, 0xc42019e500)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201d6340, 0x46c46e0, 0xc42014a1c0, 0xc42019e500)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc420384be0, 0x46c4de0, 0xc42033a600)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:45:35 http: panic serving [::1]:57913: sql: expected 5 destination arguments in Scan, not 4
+goroutine 88 [running]:
+net/http.(*conn).serve.func1(0xc420384c80)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc4202845c0)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc4200aec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x4aa
+main.dashboard.func1(0x46c46e0, 0xc42014a380, 0xc42019e600)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:413 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc4202843f0, 0x46c46e0, 0xc42014a380, 0xc42019e600)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc42014a380, 0xc42019e600)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201d6340, 0x46c46e0, 0xc42014a380, 0xc42019e600)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc420384c80, 0x46c4de0, 0xc42033a800)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:45:46 icmp onet.pl OK
+2017/12/20 15:45:47 http onet.pl OK
+2017/12/20 15:45:47 icmp wp.pl OK
+2017/12/20 15:45:47 http wp.pl OK
+2017/12/20 15:45:47 icmp 8.8.8.8 OK
+2017/12/20 15:45:52 http 8.8.8.8 CRITICAL
+2017/12/20 15:45:57 http: panic serving [::1]:57946: sql: expected 5 destination arguments in Scan, not 4
+goroutine 72 [running]:
+net/http.(*conn).serve.func1(0xc420260460)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475000, 0xc4201fe9a0)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ed20, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:199 +0x503
+main.dashboard.func1(0x46c46e0, 0xc4201440e0, 0xc4204f0700)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:414 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc4201fe840, 0x46c46e0, 0xc4201440e0, 0xc4204f0700)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4201440e0, 0xc4204f0700)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc42007cea0, 0x46c46e0, 0xc4201440e0, 0xc4204f0700)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc420260460, 0x46c4de0, 0xc4201330c0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:45:57 http: panic serving [::1]:57947: sql: expected 5 destination arguments in Scan, not 4
+goroutine 76 [running]:
+net/http.(*conn).serve.func1(0xc4202608c0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475000, 0xc4201fea30)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ed20, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:199 +0x503
+main.dashboard.func1(0x46c46e0, 0xc4201441c0, 0xc4204f0800)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:414 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc4201fe840, 0x46c46e0, 0xc4201441c0, 0xc4204f0800)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4201441c0, 0xc4204f0800)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc42007cea0, 0x46c46e0, 0xc4201441c0, 0xc4204f0800)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4202608c0, 0x46c4de0, 0xc420133280)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:46:47 icmp onet.pl OK
+2017/12/20 15:46:47 http onet.pl OK
+2017/12/20 15:46:47 icmp wp.pl OK
+2017/12/20 15:46:48 http wp.pl OK
+2017/12/20 15:46:48 icmp 8.8.8.8 OK
+2017/12/20 15:46:53 http 8.8.8.8 CRITICAL
+2017/12/20 15:46:57 http: panic serving [::1]:57961: sql: expected 5 destination arguments in Scan, not 4
+goroutine 52 [running]:
+net/http.(*conn).serve.func1(0xc42028a8c0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc42024c110)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009edc0, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x4aa
+main.dashboard.func1(0x46c46e0, 0xc42036c700, 0xc42026e000)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:413 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc42024c050, 0x46c46e0, 0xc42036c700, 0xc42026e000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc42036c700, 0xc42026e000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4204fe1a0, 0x46c46e0, 0xc42036c700, 0xc42026e000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc42028a8c0, 0x46c4de0, 0xc42017e400)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:46:57 http: panic serving [::1]:57962: sql: expected 5 destination arguments in Scan, not 4
+goroutine 56 [running]:
+net/http.(*conn).serve.func1(0xc42028a960)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc42024c1a0)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009edc0, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x4aa
+main.dashboard.func1(0x46c46e0, 0xc42036cb60, 0xc42026e200)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:413 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc42024c050, 0x46c46e0, 0xc42036cb60, 0xc42026e200)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc42036cb60, 0xc42026e200)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4204fe1a0, 0x46c46e0, 0xc42036cb60, 0xc42026e200)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc42028a960, 0x46c4de0, 0xc42017e8c0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:46:57 http: panic serving [::1]:57964: sql: expected 5 destination arguments in Scan, not 4
+goroutine 60 [running]:
+net/http.(*conn).serve.func1(0xc42028aa00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc42024c270)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009edc0, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x4aa
+main.dashboard.func1(0x46c46e0, 0xc42036cee0, 0xc42026e300)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:413 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc42024c050, 0x46c46e0, 0xc42036cee0, 0xc42026e300)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc42036cee0, 0xc42026e300)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4204fe1a0, 0x46c46e0, 0xc42036cee0, 0xc42026e300)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc42028aa00, 0x46c4de0, 0xc42017ea40)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:46:57 http: panic serving [::1]:57965: sql: expected 5 destination arguments in Scan, not 4
+goroutine 61 [running]:
+net/http.(*conn).serve.func1(0xc42028b720)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc42024c370)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009edc0, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x4aa
+main.dashboard.func1(0x46c46e0, 0xc42036db20, 0xc42026e400)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:413 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc42024c050, 0x46c46e0, 0xc42036db20, 0xc42026e400)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc42036db20, 0xc42026e400)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4204fe1a0, 0x46c46e0, 0xc42036db20, 0xc42026e400)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc42028b720, 0x46c4de0, 0xc42017eac0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:46:57 http: panic serving [::1]:57966: sql: expected 5 destination arguments in Scan, not 4
+goroutine 100 [running]:
+net/http.(*conn).serve.func1(0xc4201be460)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc420226080)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009edc0, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:198 +0x4aa
+main.dashboard.func1(0x46c46e0, 0xc4202aa0e0, 0xc42026e500)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:413 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc42024c050, 0x46c46e0, 0xc4202aa0e0, 0xc42026e500)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4202aa0e0, 0xc42026e500)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4204fe1a0, 0x46c46e0, 0xc4202aa0e0, 0xc42026e500)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4201be460, 0x46c4de0, 0xc42017ed80)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:47:15 icmp onet.pl OK
+2017/12/20 15:47:16 http onet.pl OK
+2017/12/20 15:47:16 icmp wp.pl OK
+2017/12/20 15:47:16 http wp.pl OK
+2017/12/20 15:47:16 icmp 8.8.8.8 OK
+2017/12/20 15:47:21 http 8.8.8.8 CRITICAL
+2017/12/20 15:47:25 http: panic serving [::1]:57977: sql: expected 5 destination arguments in Scan, not 4
+goroutine 32 [running]:
+net/http.(*conn).serve.func1(0xc42020d680)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475000, 0xc4201efba0)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ed20, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:200 +0x503
+main.dashboard.func1(0x46c46e0, 0xc420137340, 0xc420504200)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:415 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc420011090, 0x46c46e0, 0xc420137340, 0xc420504200)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc420137340, 0xc420504200)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc420162820, 0x46c46e0, 0xc420137340, 0xc420504200)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc42020d680, 0x46c4de0, 0xc4202b0540)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:47:25 http: panic serving [::1]:57978: sql: expected 5 destination arguments in Scan, not 4
+goroutine 84 [running]:
+net/http.(*conn).serve.func1(0xc42009f860)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475000, 0xc4201efc30)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ed20, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:200 +0x503
+main.dashboard.func1(0x46c46e0, 0xc420137420, 0xc420114900)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:415 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc420011090, 0x46c46e0, 0xc420137420, 0xc420114900)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc420137420, 0xc420114900)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc420162820, 0x46c46e0, 0xc420137420, 0xc420114900)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc42009f860, 0x46c4de0, 0xc420058d00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:47:25 http: panic serving [::1]:57979: sql: expected 5 destination arguments in Scan, not 4
+goroutine 91 [running]:
+net/http.(*conn).serve.func1(0xc4202d6000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475000, 0xc420011170)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ed20, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:200 +0x503
+main.dashboard.func1(0x46c46e0, 0xc4202661c0, 0xc420114a00)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:415 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc420011090, 0x46c46e0, 0xc4202661c0, 0xc420114a00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4202661c0, 0xc420114a00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc420162820, 0x46c46e0, 0xc4202661c0, 0xc420114a00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4202d6000, 0x46c4de0, 0xc420059080)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:47:31 http: panic serving [::1]:57980: sql: expected 5 destination arguments in Scan, not 4
+goroutine 100 [running]:
+net/http.(*conn).serve.func1(0xc42020dae0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475000, 0xc420011210)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ed20, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:200 +0x503
+main.dashboard.func1(0x46c46e0, 0xc420266380, 0xc420504300)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:415 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc420011090, 0x46c46e0, 0xc420266380, 0xc420504300)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc420266380, 0xc420504300)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc420162820, 0x46c46e0, 0xc420266380, 0xc420504300)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc42020dae0, 0x46c4de0, 0xc4202b0700)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:47:31 http: panic serving [::1]:57981: sql: expected 5 destination arguments in Scan, not 4
+goroutine 101 [running]:
+net/http.(*conn).serve.func1(0xc42020db80)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475000, 0xc4200112a0)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ed20, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:200 +0x503
+main.dashboard.func1(0x46c46e0, 0xc420266540, 0xc420504400)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:415 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc420011090, 0x46c46e0, 0xc420266540, 0xc420504400)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc420266540, 0xc420504400)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc420162820, 0x46c46e0, 0xc420266540, 0xc420504400)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc42020db80, 0x46c4de0, 0xc4202b0780)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:47:31 http: panic serving [::1]:57982: sql: expected 5 destination arguments in Scan, not 4
+goroutine 108 [running]:
+net/http.(*conn).serve.func1(0xc42020dc20)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475000, 0xc4200113a0)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ed20, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:200 +0x503
+main.dashboard.func1(0x46c46e0, 0xc420266620, 0xc420504500)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:415 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc420011090, 0x46c46e0, 0xc420266620, 0xc420504500)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc420266620, 0xc420504500)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc420162820, 0x46c46e0, 0xc420266620, 0xc420504500)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc42020dc20, 0x46c4de0, 0xc4202b0a00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:47:59 icmp onet.pl OK
+2017/12/20 15:47:59 http onet.pl OK
+2017/12/20 15:47:59 icmp wp.pl OK
+2017/12/20 15:48:00 http wp.pl OK
+2017/12/20 15:48:00 icmp 8.8.8.8 OK
+2017/12/20 15:48:05 http 8.8.8.8 CRITICAL
+2017/12/20 15:48:09 http: panic serving [::1]:58014: sql: expected 5 destination arguments in Scan, not 4
+goroutine 57 [running]:
+net/http.(*conn).serve.func1(0xc420418460)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475000, 0xc4202900a0)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ed20, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:200 +0x501
+main.dashboard.func1(0x46c46e0, 0xc42044a1c0, 0xc42016e000)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:415 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc4202c02c0, 0x46c46e0, 0xc42044a1c0, 0xc42016e000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc42044a1c0, 0xc42016e000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc42007cb60, 0x46c46e0, 0xc42044a1c0, 0xc42016e000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc420418460, 0x46c4de0, 0xc4203ee000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:48:09 http: panic serving [::1]:58015: sql: expected 5 destination arguments in Scan, not 4
+goroutine 87 [running]:
+net/http.(*conn).serve.func1(0xc4203ae3c0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475000, 0xc420290160)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ed20, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:200 +0x501
+main.dashboard.func1(0x46c46e0, 0xc42044a460, 0xc42057a100)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:415 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc4202c02c0, 0x46c46e0, 0xc42044a460, 0xc42057a100)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc42044a460, 0xc42057a100)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc42007cb60, 0x46c46e0, 0xc42044a460, 0xc42057a100)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4203ae3c0, 0x46c4de0, 0xc420306140)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:48:09 http: panic serving [::1]:58016: sql: expected 5 destination arguments in Scan, not 4
+goroutine 94 [running]:
+net/http.(*conn).serve.func1(0xc4203ae460)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475000, 0xc420290260)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ed20, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:200 +0x501
+main.dashboard.func1(0x46c46e0, 0xc42044a700, 0xc42057a200)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:415 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc4202c02c0, 0x46c46e0, 0xc42044a700, 0xc42057a200)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc42044a700, 0xc42057a200)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc42007cb60, 0x46c46e0, 0xc42044a700, 0xc42057a200)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4203ae460, 0x46c4de0, 0xc420306480)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:51:56 icmp onet.pl OK
+2017/12/20 15:51:56 http onet.pl OK
+2017/12/20 15:51:57 icmp wp.pl OK
+2017/12/20 15:51:57 http wp.pl OK
+2017/12/20 15:51:57 icmp 8.8.8.8 OK
+2017/12/20 15:52:02 http 8.8.8.8 CRITICAL
+2017/12/20 15:52:07 http: panic serving [::1]:58076: sql: expected 5 destination arguments in Scan, not 4
+goroutine 79 [running]:
+net/http.(*conn).serve.func1(0xc420188f00)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475000, 0xc420180070)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:199 +0x516
+main.dashboard.func1(0x46c46e0, 0xc4203c87e0, 0xc420154500)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:414 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc42013a2e0, 0x46c46e0, 0xc4203c87e0, 0xc420154500)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4203c87e0, 0xc420154500)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc420160820, 0x46c46e0, 0xc4203c87e0, 0xc420154500)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc420188f00, 0x46c4de0, 0xc4201284c0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:52:07 http: panic serving [::1]:58077: sql: expected 5 destination arguments in Scan, not 4
+goroutine 59 [running]:
+net/http.(*conn).serve.func1(0xc42027a140)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475000, 0xc420180100)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:199 +0x516
+main.dashboard.func1(0x46c46e0, 0xc4203c8e00, 0xc420114000)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:414 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc42013a2e0, 0x46c46e0, 0xc4203c8e00, 0xc420114000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4203c8e00, 0xc420114000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc420160820, 0x46c46e0, 0xc4203c8e00, 0xc420114000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc42027a140, 0x46c4de0, 0xc4202f00c0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:52:07 http: panic serving [::1]:58078: sql: expected 5 destination arguments in Scan, not 4
+goroutine 82 [running]:
+net/http.(*conn).serve.func1(0xc42027a1e0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475000, 0xc4201801b0)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:199 +0x516
+main.dashboard.func1(0x46c46e0, 0xc4203c90a0, 0xc420114100)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:414 +0x3a
+net/http.HandlerFunc.ServeHTTP(0xc42013a2e0, 0x46c46e0, 0xc4203c90a0, 0xc420114100)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4203c90a0, 0xc420114100)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc420160820, 0x46c46e0, 0xc4203c90a0, 0xc420114100)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc42027a1e0, 0x46c4de0, 0xc4202f0580)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:53:15 icmp onet.pl OK
+2017/12/20 15:53:15 http onet.pl OK
+2017/12/20 15:53:15 icmp wp.pl OK
+2017/12/20 15:53:16 http wp.pl OK
+2017/12/20 15:53:16 icmp 8.8.8.8 OK
+2017/12/20 15:53:21 http 8.8.8.8 CRITICAL
+2017/12/20 15:53:25 http: panic serving [::1]:58128: sql: expected 5 destination arguments in Scan, not 4
+goroutine 89 [running]:
+net/http.(*conn).serve.func1(0xc420378000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4474fe0, 0xc42022c050)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ed20, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:199 +0x516
+main.dashboard.func1(0x46c46e0, 0xc42030a1c0, 0xc42019e100)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:414 +0x37
+net/http.HandlerFunc.ServeHTTP(0xc42043a160, 0x46c46e0, 0xc42030a1c0, 0xc42019e100)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc42030a1c0, 0xc42019e100)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201584e0, 0x46c46e0, 0xc42030a1c0, 0xc42019e100)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc420378000, 0x46c4de0, 0xc4200585c0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:53:25 http: panic serving [::1]:58129: sql: expected 5 destination arguments in Scan, not 4
+goroutine 43 [running]:
+net/http.(*conn).serve.func1(0xc42031bf40)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4474fe0, 0xc42022c0e0)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ed20, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:199 +0x516
+main.dashboard.func1(0x46c46e0, 0xc42030a540, 0xc4201dc000)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:414 +0x37
+net/http.HandlerFunc.ServeHTTP(0xc42043a160, 0x46c46e0, 0xc42030a540, 0xc4201dc000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc42030a540, 0xc4201dc000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201584e0, 0x46c46e0, 0xc42030a540, 0xc4201dc000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc42031bf40, 0x46c4de0, 0xc420132040)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:53:25 http: panic serving [::1]:58130: sql: expected 5 destination arguments in Scan, not 4
+goroutine 76 [running]:
+net/http.(*conn).serve.func1(0xc420254b40)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4474fe0, 0xc42022c1b0)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ed20, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:199 +0x516
+main.dashboard.func1(0x46c46e0, 0xc42030a700, 0xc42018e000)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:414 +0x37
+net/http.HandlerFunc.ServeHTTP(0xc42043a160, 0x46c46e0, 0xc42030a700, 0xc42018e000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc42030a700, 0xc42018e000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201584e0, 0x46c46e0, 0xc42030a700, 0xc42018e000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc420254b40, 0x46c4de0, 0xc4202fc340)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:56:38 icmp onet.pl OK
+2017/12/20 15:56:38 http onet.pl OK
+2017/12/20 15:56:38 icmp wp.pl OK
+2017/12/20 15:56:39 http wp.pl OK
+2017/12/20 15:56:39 icmp 8.8.8.8 OK
+2017/12/20 15:56:44 http 8.8.8.8 CRITICAL
+2017/12/20 15:56:50 http: panic serving [::1]:58236: sql: expected 5 destination arguments in Scan, not 4
+goroutine 30 [running]:
+net/http.(*conn).serve.func1(0xc420376780)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4474f80, 0xc4202725b0)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009edc0, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:202 +0x5fd
+main.dashboard.func1(0x46c46e0, 0xc420402700, 0xc420154000)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:406 +0x37
+net/http.HandlerFunc.ServeHTTP(0xc420288340, 0x46c46e0, 0xc420402700, 0xc420154000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc420402700, 0xc420154000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201584e0, 0x46c46e0, 0xc420402700, 0xc420154000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc420376780, 0x46c4de0, 0xc420330000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:56:50 http: panic serving [::1]:58237: sql: expected 5 destination arguments in Scan, not 4
+goroutine 83 [running]:
+net/http.(*conn).serve.func1(0xc420443b80)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4474f80, 0xc420272710)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009edc0, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:202 +0x5fd
+main.dashboard.func1(0x46c46e0, 0xc420402a80, 0xc420114600)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:406 +0x37
+net/http.HandlerFunc.ServeHTTP(0xc420288340, 0x46c46e0, 0xc420402a80, 0xc420114600)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc420402a80, 0xc420114600)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201584e0, 0x46c46e0, 0xc420402a80, 0xc420114600)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc420443b80, 0x46c4de0, 0xc420418540)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:56:50 http: panic serving [::1]:58238: sql: expected 5 destination arguments in Scan, not 4
+goroutine 94 [running]:
+net/http.(*conn).serve.func1(0xc420443c20)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4474f80, 0xc420272910)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009edc0, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:202 +0x5fd
+main.dashboard.func1(0x46c46e0, 0xc420402d20, 0xc420114700)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:406 +0x37
+net/http.HandlerFunc.ServeHTTP(0xc420288340, 0x46c46e0, 0xc420402d20, 0xc420114700)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc420402d20, 0xc420114700)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201584e0, 0x46c46e0, 0xc420402d20, 0xc420114700)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc420443c20, 0x46c4de0, 0xc420418880)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:57:44 icmp onet.pl OK
+2017/12/20 15:57:44 http onet.pl OK
+2017/12/20 15:57:44 icmp wp.pl OK
+2017/12/20 15:57:45 http wp.pl OK
+2017/12/20 15:57:45 icmp 8.8.8.8 OK
+2017/12/20 15:57:50 http 8.8.8.8 CRITICAL
+2017/12/20 15:57:54 http: panic serving [::1]:58254: sql: expected 5 destination arguments in Scan, not 4
+goroutine 47 [running]:
+net/http.(*conn).serve.func1(0xc4202dabe0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4474f80, 0xc4204c63a0)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc4200aec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:202 +0x637
+main.dashboard.func1(0x46c46e0, 0xc4201500e0, 0xc42051e200)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:406 +0x37
+net/http.HandlerFunc.ServeHTTP(0xc4204ca140, 0x46c46e0, 0xc4201500e0, 0xc42051e200)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4201500e0, 0xc42051e200)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc42052c410, 0x46c46e0, 0xc4201500e0, 0xc42051e200)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4202dabe0, 0x46c4de0, 0xc42008a600)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:57:54 http: panic serving [::1]:58255: sql: expected 5 destination arguments in Scan, not 4
+goroutine 48 [running]:
+net/http.(*conn).serve.func1(0xc4202dac80)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4474f80, 0xc4204c64c0)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc4200aec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:202 +0x637
+main.dashboard.func1(0x46c46e0, 0xc4201501c0, 0xc42051e300)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:406 +0x37
+net/http.HandlerFunc.ServeHTTP(0xc4204ca140, 0x46c46e0, 0xc4201501c0, 0xc42051e300)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4201501c0, 0xc42051e300)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc42052c410, 0x46c46e0, 0xc4201501c0, 0xc42051e300)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4202dac80, 0x46c4de0, 0xc42008a6c0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:57:54 http: panic serving [::1]:58256: sql: expected 5 destination arguments in Scan, not 4
+goroutine 65 [running]:
+net/http.(*conn).serve.func1(0xc420154000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4474f80, 0xc4200101d0)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc4200aec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:202 +0x637
+main.dashboard.func1(0x46c46e0, 0xc4204860e0, 0xc42015c000)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:406 +0x37
+net/http.HandlerFunc.ServeHTTP(0xc4204ca140, 0x46c46e0, 0xc4204860e0, 0xc42015c000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4204860e0, 0xc42015c000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc42052c410, 0x46c46e0, 0xc4204860e0, 0xc42015c000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc420154000, 0x46c4de0, 0xc4202e4140)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 15:58:39 icmp onet.pl OK
+2017/12/20 15:58:40 http onet.pl OK
+2017/12/20 15:58:40 icmp wp.pl OK
+2017/12/20 15:58:40 http wp.pl OK
+2017/12/20 15:58:40 icmp 8.8.8.8 OK
+2017/12/20 15:58:45 http 8.8.8.8 CRITICAL
+2017/12/20 15:58:51 sql: expected 5 destination arguments in Scan, not 1
+2017/12/20 16:02:34 icmp onet.pl OK
+2017/12/20 16:02:34 http onet.pl OK
+2017/12/20 16:02:34 icmp wp.pl OK
+2017/12/20 16:02:35 http wp.pl OK
+2017/12/20 16:02:35 icmp 8.8.8.8 OK
+2017/12/20 16:02:40 http 8.8.8.8 CRITICAL
+2017/12/20 16:05:21 icmp onet.pl OK
+2017/12/20 16:05:22 http onet.pl OK
+2017/12/20 16:05:22 icmp wp.pl OK
+2017/12/20 16:05:22 http wp.pl OK
+2017/12/20 16:05:22 icmp 8.8.8.8 OK
+2017/12/20 16:05:27 http 8.8.8.8 CRITICAL
+2017/12/20 16:05:32 http: panic serving [::1]:58430: sql: expected 5 destination arguments in Scan, not 4
+goroutine 47 [running]:
+net/http.(*conn).serve.func1(0xc420290000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4474fe0, 0xc4201881d0)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:221 +0x497
+main.dashboard.func1(0x46c46e0, 0xc4203de700, 0xc420516000)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:426 +0x37
+net/http.HandlerFunc.ServeHTTP(0xc420232020, 0x46c46e0, 0xc4203de700, 0xc420516000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4203de700, 0xc420516000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc42007c340, 0x46c46e0, 0xc4203de700, 0xc420516000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc420290000, 0x46c4de0, 0xc420134380)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 16:05:32 http: panic serving [::1]:58431: sql: expected 5 destination arguments in Scan, not 4
+goroutine 48 [running]:
+net/http.(*conn).serve.func1(0xc4202900a0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4474fe0, 0xc420188260)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:221 +0x497
+main.dashboard.func1(0x46c46e0, 0xc4203deb60, 0xc420516200)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:426 +0x37
+net/http.HandlerFunc.ServeHTTP(0xc420232020, 0x46c46e0, 0xc4203deb60, 0xc420516200)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4203deb60, 0xc420516200)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc42007c340, 0x46c46e0, 0xc4203deb60, 0xc420516200)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4202900a0, 0x46c4de0, 0xc420134480)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 16:05:32 http: panic serving [::1]:58432: sql: expected 5 destination arguments in Scan, not 4
+goroutine 32 [running]:
+net/http.(*conn).serve.func1(0xc4203b63c0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4474fe0, 0xc420188300)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:221 +0x497
+main.dashboard.func1(0x46c46e0, 0xc4203deee0, 0xc42018c300)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:426 +0x37
+net/http.HandlerFunc.ServeHTTP(0xc420232020, 0x46c46e0, 0xc4203deee0, 0xc42018c300)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4203deee0, 0xc42018c300)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc42007c340, 0x46c46e0, 0xc4203deee0, 0xc42018c300)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4203b63c0, 0x46c4de0, 0xc4203e0180)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 16:05:32 http: panic serving [::1]:58433: sql: expected 5 destination arguments in Scan, not 4
+goroutine 90 [running]:
+net/http.(*conn).serve.func1(0xc4203b6460)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4474fe0, 0xc4201883d0)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:221 +0x497
+main.dashboard.func1(0x46c46e0, 0xc4203df420, 0xc42018c400)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:426 +0x37
+net/http.HandlerFunc.ServeHTTP(0xc420232020, 0x46c46e0, 0xc4203df420, 0xc42018c400)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4203df420, 0xc42018c400)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc42007c340, 0x46c46e0, 0xc4203df420, 0xc42018c400)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4203b6460, 0x46c4de0, 0xc4203e0540)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 16:05:32 http: panic serving [::1]:58434: sql: expected 5 destination arguments in Scan, not 4
+goroutine 94 [running]:
+net/http.(*conn).serve.func1(0xc4203b6500)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4474fe0, 0xc420010d60)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:221 +0x497
+main.dashboard.func1(0x46c46e0, 0xc4202ae0e0, 0xc42018c500)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:426 +0x37
+net/http.HandlerFunc.ServeHTTP(0xc420232020, 0x46c46e0, 0xc4202ae0e0, 0xc42018c500)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4202ae0e0, 0xc42018c500)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc42007c340, 0x46c46e0, 0xc4202ae0e0, 0xc42018c500)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4203b6500, 0x46c4de0, 0xc4203e06c0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 16:06:43 icmp onet.pl OK
+2017/12/20 16:06:43 http onet.pl OK
+2017/12/20 16:06:43 icmp wp.pl OK
+2017/12/20 16:06:44 http wp.pl OK
+2017/12/20 16:06:44 icmp 8.8.8.8 OK
+2017/12/20 16:06:49 http 8.8.8.8 CRITICAL
+2017/12/20 16:06:52 http: panic serving [::1]:58452: sql: Scan error on column index 0: unsupported Scan, storing driver.Value type []uint8 into type *main.Status
+goroutine 84 [running]:
+net/http.(*conn).serve.func1(0xc420318780)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc42029a500)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:221 +0x461
+main.dashboard.func1(0x46c46e0, 0xc420474000, 0xc42017e500)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:426 +0x37
+net/http.HandlerFunc.ServeHTTP(0xc42046c240, 0x46c46e0, 0xc420474000, 0xc42017e500)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc420474000, 0xc42017e500)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201ba5b0, 0x46c46e0, 0xc420474000, 0xc42017e500)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc420318780, 0x46c4de0, 0xc420418380)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 16:06:52 http: panic serving [::1]:58453: sql: Scan error on column index 0: unsupported Scan, storing driver.Value type []uint8 into type *main.Status
+goroutine 85 [running]:
+net/http.(*conn).serve.func1(0xc420318820)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc42029a750)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:221 +0x461
+main.dashboard.func1(0x46c46e0, 0xc4204741c0, 0xc42017e600)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:426 +0x37
+net/http.HandlerFunc.ServeHTTP(0xc42046c240, 0x46c46e0, 0xc4204741c0, 0xc42017e600)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4204741c0, 0xc42017e600)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201ba5b0, 0x46c46e0, 0xc4204741c0, 0xc42017e600)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc420318820, 0x46c4de0, 0xc420418440)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 16:06:52 http: panic serving [::1]:58454: sql: Scan error on column index 0: unsupported Scan, storing driver.Value type []uint8 into type *main.Status
+goroutine 86 [running]:
+net/http.(*conn).serve.func1(0xc4203188c0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc42029a8b0)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:221 +0x461
+main.dashboard.func1(0x46c46e0, 0xc420474380, 0xc42017e700)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:426 +0x37
+net/http.HandlerFunc.ServeHTTP(0xc42046c240, 0x46c46e0, 0xc420474380, 0xc42017e700)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc420474380, 0xc42017e700)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201ba5b0, 0x46c46e0, 0xc420474380, 0xc42017e700)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4203188c0, 0x46c4de0, 0xc420418500)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 16:06:52 http: panic serving [::1]:58455: sql: Scan error on column index 0: unsupported Scan, storing driver.Value type []uint8 into type *main.Status
+goroutine 96 [running]:
+net/http.(*conn).serve.func1(0xc420318d20)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc42029a980)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:221 +0x461
+main.dashboard.func1(0x46c46e0, 0xc420474460, 0xc42017e800)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:426 +0x37
+net/http.HandlerFunc.ServeHTTP(0xc42046c240, 0x46c46e0, 0xc420474460, 0xc42017e800)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc420474460, 0xc42017e800)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201ba5b0, 0x46c46e0, 0xc420474460, 0xc42017e800)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc420318d20, 0x46c4de0, 0xc4204188c0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 16:06:53 http: panic serving [::1]:58456: sql: Scan error on column index 0: unsupported Scan, storing driver.Value type []uint8 into type *main.Status
+goroutine 100 [running]:
+net/http.(*conn).serve.func1(0xc420319c20)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc420276130)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:221 +0x461
+main.dashboard.func1(0x46c46e0, 0xc4201ec000, 0xc42017e900)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:426 +0x37
+net/http.HandlerFunc.ServeHTTP(0xc42046c240, 0x46c46e0, 0xc4201ec000, 0xc42017e900)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4201ec000, 0xc42017e900)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201ba5b0, 0x46c46e0, 0xc4201ec000, 0xc42017e900)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc420319c20, 0x46c4de0, 0xc420418a80)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 16:06:53 http: panic serving [::1]:58457: sql: Scan error on column index 0: unsupported Scan, storing driver.Value type []uint8 into type *main.Status
+goroutine 73 [running]:
+net/http.(*conn).serve.func1(0xc4201e80a0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc4202762b0)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:221 +0x461
+main.dashboard.func1(0x46c46e0, 0xc4201ec0e0, 0xc420114000)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:426 +0x37
+net/http.HandlerFunc.ServeHTTP(0xc42046c240, 0x46c46e0, 0xc4201ec0e0, 0xc420114000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4201ec0e0, 0xc420114000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201ba5b0, 0x46c46e0, 0xc4201ec0e0, 0xc420114000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4201e80a0, 0x46c4de0, 0xc420132400)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 16:06:53 http: panic serving [::1]:58458: sql: Scan error on column index 0: unsupported Scan, storing driver.Value type []uint8 into type *main.Status
+goroutine 48 [running]:
+net/http.(*conn).serve.func1(0xc4202b41e0)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1697 +0xd0
+panic(0x4475020, 0xc420466140)
+	/usr/local/opt/go/libexec/src/runtime/panic.go:491 +0x283
+main.ReadItem(0xc42009ec80, 0x0, 0x0, 0x0)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:221 +0x461
+main.dashboard.func1(0x46c46e0, 0xc4202d40e0, 0xc420506000)
+	/Users/pawel/Private/Code/golang/SuperEasyMonitoring/main.go:426 +0x37
+net/http.HandlerFunc.ServeHTTP(0xc42046c240, 0x46c46e0, 0xc4202d40e0, 0xc420506000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1918 +0x44
+net/http.(*ServeMux).ServeHTTP(0x46ff4c0, 0x46c46e0, 0xc4202d40e0, 0xc420506000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2254 +0x130
+net/http.serverHandler.ServeHTTP(0xc4201ba5b0, 0x46c46e0, 0xc4202d40e0, 0xc420506000)
+	/usr/local/opt/go/libexec/src/net/http/server.go:2619 +0xb4
+net/http.(*conn).serve(0xc4202b41e0, 0x46c4de0, 0xc420330140)
+	/usr/local/opt/go/libexec/src/net/http/server.go:1801 +0x71d
+created by net/http.(*Server).Serve
+	/usr/local/opt/go/libexec/src/net/http/server.go:2720 +0x288
+2017/12/20 16:08:20 icmp onet.pl OK
+2017/12/20 16:08:21 http onet.pl OK
+2017/12/20 16:08:21 icmp wp.pl OK
+2017/12/20 16:08:21 http wp.pl OK
+2017/12/20 16:08:21 icmp 8.8.8.8 OK
+2017/12/20 16:08:26 http 8.8.8.8 CRITICAL
+2017/12/20 16:09:06 icmp onet.pl OK
+2017/12/20 16:09:07 http onet.pl OK
+2017/12/20 16:09:07 icmp wp.pl OK
+2017/12/20 16:09:07 http wp.pl OK
+2017/12/20 16:09:07 icmp 8.8.8.8 OK
+2017/12/20 16:09:12 http 8.8.8.8 CRITICAL
+2017/12/20 16:10:21 icmp onet.pl OK
+2017/12/20 16:10:21 http onet.pl OK
+2017/12/20 16:10:21 icmp wp.pl OK
+2017/12/20 16:10:22 http wp.pl OK
+2017/12/20 16:10:22 icmp 8.8.8.8 OK
+2017/12/20 16:10:27 http 8.8.8.8 CRITICAL
+2017/12/20 16:11:28 icmp onet.pl OK
+2017/12/20 16:11:29 http onet.pl OK
+2017/12/20 16:11:29 icmp wp.pl OK
+2017/12/20 16:11:29 http wp.pl OK
+2017/12/20 16:11:29 icmp 8.8.8.8 OK
+2017/12/20 16:11:34 http 8.8.8.8 CRITICAL
+2017/12/20 16:12:29 icmp onet.pl OK
+2017/12/20 16:12:29 http onet.pl OK
+2017/12/20 16:12:29 icmp wp.pl OK
+2017/12/20 16:12:29 http wp.pl OK
+2017/12/20 16:12:29 icmp 8.8.8.8 OK
+2017/12/20 16:12:34 http 8.8.8.8 CRITICAL
+2017/12/20 16:13:27 icmp onet.pl OK
+2017/12/20 16:13:27 http onet.pl OK
+2017/12/20 16:13:27 icmp wp.pl OK
+2017/12/20 16:13:28 http wp.pl OK
+2017/12/20 16:13:28 icmp 8.8.8.8 OK
+2017/12/20 16:13:33 http 8.8.8.8 CRITICAL
+2017/12/20 16:14:06 icmp onet.pl OK
+2017/12/20 16:14:07 http onet.pl OK
+2017/12/20 16:14:07 icmp wp.pl OK
+2017/12/20 16:14:07 http wp.pl OK
+2017/12/20 16:14:07 icmp 8.8.8.8 OK
+2017/12/20 16:14:12 http 8.8.8.8 CRITICAL
+2017/12/20 16:15:17 icmp onet.pl OK
+2017/12/20 16:15:17 http onet.pl OK
+2017/12/20 16:15:17 icmp wp.pl OK
+2017/12/20 16:15:18 http wp.pl OK
+2017/12/20 16:15:18 icmp 8.8.8.8 OK
+2017/12/20 16:15:23 http 8.8.8.8 CRITICAL
+2017/12/20 16:16:28 icmp onet.pl OK
+2017/12/20 16:16:29 http onet.pl OK
+2017/12/20 16:16:29 icmp wp.pl OK
+2017/12/20 16:16:29 http wp.pl OK
+2017/12/20 16:16:29 icmp 8.8.8.8 OK
+2017/12/20 16:16:34 http 8.8.8.8 CRITICAL
+2017/12/20 16:17:40 icmp onet.pl OK
+2017/12/20 16:17:41 http onet.pl OK
+2017/12/20 16:17:41 icmp wp.pl OK
+2017/12/20 16:17:41 http wp.pl OK
+2017/12/20 16:17:41 icmp 8.8.8.8 OK
+2017/12/20 16:17:46 http 8.8.8.8 CRITICAL
+2017/12/20 16:18:47 icmp onet.pl OK
+2017/12/20 16:18:47 http onet.pl OK
+2017/12/20 16:18:47 icmp wp.pl OK
+2017/12/20 16:18:48 http wp.pl OK
+2017/12/20 16:18:48 icmp 8.8.8.8 OK
+2017/12/20 16:18:53 http 8.8.8.8 CRITICAL
+2017/12/20 16:19:55 icmp onet.pl OK
+2017/12/20 16:19:55 http onet.pl OK
+2017/12/20 16:19:55 icmp wp.pl OK
+2017/12/20 16:19:55 http wp.pl OK
+2017/12/20 16:19:56 icmp 8.8.8.8 OK
+2017/12/20 16:20:01 http 8.8.8.8 CRITICAL
+2017/12/20 16:20:59 icmp onet.pl OK
+2017/12/20 16:20:59 http onet.pl OK
+2017/12/20 16:20:59 icmp wp.pl OK
+2017/12/20 16:21:00 http wp.pl OK
+2017/12/20 16:21:00 icmp 8.8.8.8 OK
+2017/12/20 16:21:05 http 8.8.8.8 CRITICAL
+2017/12/20 16:21:38 icmp onet.pl OK
+2017/12/20 16:21:38 http onet.pl OK
+2017/12/20 16:21:38 icmp wp.pl OK
+2017/12/20 16:21:39 http wp.pl OK
+2017/12/20 16:21:39 icmp 8.8.8.8 OK
+2017/12/20 16:21:44 http 8.8.8.8 CRITICAL
+2017/12/22 09:46:13 icmp onet.pl OK
+2017/12/22 09:46:13 http onet.pl OK
+2017/12/22 09:46:13 icmp wp.pl OK
+2017/12/22 09:46:14 http wp.pl OK
+2017/12/22 09:46:14 icmp 8.8.8.8 OK
+2017/12/22 09:46:19 http 8.8.8.8 CRITICAL
+2017/12/22 09:47:32 icmp onet.pl OK
+2017/12/22 09:47:32 http onet.pl OK
+2017/12/22 09:47:32 icmp wp.pl OK
+2017/12/22 09:47:33 http wp.pl OK
+2017/12/22 09:47:33 icmp 8.8.8.8 OK
+2017/12/22 09:47:38 http 8.8.8.8 CRITICAL
+2017/12/22 09:49:25 icmp onet.pl OK
+2017/12/22 09:49:26 http onet.pl OK
+2017/12/22 09:49:26 icmp wp.pl OK
+2017/12/22 09:49:26 http wp.pl OK
+2017/12/22 09:49:26 icmp 8.8.8.8 OK
+2017/12/22 09:49:31 http 8.8.8.8 CRITICAL
+2017/12/22 09:50:35 icmp onet.pl OK
+2017/12/22 09:50:36 http onet.pl OK
+2017/12/22 09:50:36 icmp wp.pl OK
+2017/12/22 09:50:36 http wp.pl OK
+2017/12/22 09:50:36 icmp 8.8.8.8 OK
+2017/12/22 09:50:41 http 8.8.8.8 CRITICAL
+2017/12/22 09:52:00 icmp onet.pl OK
+2017/12/22 09:52:01 http onet.pl OK
+2017/12/22 09:52:01 icmp wp.pl OK
+2017/12/22 09:52:01 http wp.pl OK
+2017/12/22 09:52:01 icmp 8.8.8.8 OK
+2017/12/22 09:52:06 http 8.8.8.8 CRITICAL
+2017/12/22 09:53:17 icmp onet.pl OK
+2017/12/22 09:53:18 http onet.pl OK
+2017/12/22 09:53:18 icmp wp.pl OK
+2017/12/22 09:53:18 http wp.pl OK
+2017/12/22 09:53:18 icmp 8.8.8.8 OK
+2017/12/22 09:53:23 http 8.8.8.8 CRITICAL
+2017/12/22 09:53:44 icmp onet.pl OK
+2017/12/22 09:53:45 http onet.pl OK
+2017/12/22 09:53:45 icmp wp.pl OK
+2017/12/22 09:53:45 http wp.pl OK
+2017/12/22 09:53:45 icmp 8.8.8.8 OK
+2017/12/22 09:53:50 http 8.8.8.8 CRITICAL
+2017/12/22 09:54:10 icmp onet.pl OK
+2017/12/22 09:54:10 http onet.pl OK
+2017/12/22 09:54:10 icmp wp.pl OK
+2017/12/22 09:54:11 http wp.pl OK
+2017/12/22 09:54:11 icmp 8.8.8.8 OK
+2017/12/22 09:54:16 http 8.8.8.8 CRITICAL
+2017/12/22 09:55:19 icmp onet.pl OK
+2017/12/22 09:55:19 http onet.pl OK
+2017/12/22 09:55:19 icmp wp.pl OK
+2017/12/22 09:55:19 http wp.pl OK
+2017/12/22 09:55:19 icmp 8.8.8.8 OK
+2017/12/22 09:55:24 http 8.8.8.8 CRITICAL
+2017/12/22 09:55:49 icmp onet.pl OK
+2017/12/22 09:55:49 http onet.pl OK
+2017/12/22 09:55:49 icmp wp.pl OK
+2017/12/22 09:55:50 http wp.pl OK
+2017/12/22 09:55:50 icmp 8.8.8.8 OK
+2017/12/22 09:55:55 http 8.8.8.8 CRITICAL
+2017/12/22 09:57:40 icmp onet.pl OK
+2017/12/22 09:57:40 http onet.pl OK
+2017/12/22 09:57:40 icmp wp.pl OK
+2017/12/22 09:57:41 http wp.pl OK
+2017/12/22 09:57:41 icmp 8.8.8.8 OK
+2017/12/22 09:57:46 http 8.8.8.8 CRITICAL
+2017/12/22 09:58:21 icmp onet.pl OK
+2017/12/22 09:58:21 http onet.pl OK
+2017/12/22 09:58:21 icmp wp.pl OK
+2017/12/22 09:58:22 http wp.pl OK
+2017/12/22 09:58:22 icmp 8.8.8.8 OK
+2017/12/22 09:58:27 http 8.8.8.8 CRITICAL
+2017/12/22 09:59:59 icmp onet.pl OK
+2017/12/22 10:00:00 http onet.pl OK
+2017/12/22 10:00:00 icmp wp.pl OK
+2017/12/22 10:00:00 http wp.pl OK
+2017/12/22 10:00:00 icmp 8.8.8.8 OK
+2017/12/22 10:00:05 http 8.8.8.8 CRITICAL
+2017/12/22 10:00:39 icmp onet.pl OK
+2017/12/22 10:00:40 http onet.pl OK
+2017/12/22 10:00:40 icmp wp.pl OK
+2017/12/22 10:00:40 http wp.pl OK
+2017/12/22 10:00:40 icmp 8.8.8.8 OK
+2017/12/22 10:00:45 http 8.8.8.8 CRITICAL
+2017/12/22 10:02:04 icmp onet.pl OK
+2017/12/22 10:02:04 http onet.pl OK
+2017/12/22 10:02:04 icmp wp.pl OK
+2017/12/22 10:02:04 http wp.pl OK
+2017/12/22 10:02:05 icmp 8.8.8.8 OK
+2017/12/22 10:02:10 http 8.8.8.8 CRITICAL
+2017/12/22 10:07:51 icmp onet.pl OK
+2017/12/22 10:07:51 http onet.pl OK
+2017/12/22 10:07:51 icmp wp.pl OK
+2017/12/22 10:07:52 http wp.pl OK
+2017/12/22 10:07:52 icmp 8.8.8.8 OK
+2017/12/22 10:07:57 http 8.8.8.8 CRITICAL
+2017/12/22 10:08:45 icmp onet.pl OK
+2017/12/22 10:08:45 http onet.pl OK
+2017/12/22 10:08:46 icmp wp.pl OK
+2017/12/22 10:08:46 http wp.pl OK
+2017/12/22 10:08:46 icmp 8.8.8.8 OK
+2017/12/22 10:08:51 http 8.8.8.8 CRITICAL
+2017/12/22 10:10:20 icmp onet.pl OK
+2017/12/22 10:10:20 http onet.pl OK
+2017/12/22 10:10:20 icmp wp.pl OK
+2017/12/22 10:10:20 http wp.pl OK
+2017/12/22 10:10:20 icmp 8.8.8.8 OK
+2017/12/22 10:10:25 http 8.8.8.8 CRITICAL
+2017/12/22 10:12:32 icmp onet.pl OK
+2017/12/22 10:12:33 http onet.pl OK
+2017/12/22 10:12:33 icmp wp.pl OK
+2017/12/22 10:12:33 http wp.pl OK
+2017/12/22 10:12:33 icmp 8.8.8.8 OK
+2017/12/22 10:12:38 http 8.8.8.8 CRITICAL
+2017/12/22 10:15:00 icmp onet.pl OK
+2017/12/22 10:15:01 http onet.pl OK
+2017/12/22 10:15:01 icmp wp.pl OK
+2017/12/22 10:15:01 http wp.pl OK
+2017/12/22 10:15:01 icmp 8.8.8.8 OK
+2017/12/22 10:15:06 http 8.8.8.8 CRITICAL
+2017/12/22 10:15:36 icmp onet.pl OK
+2017/12/22 10:15:37 http onet.pl OK
+2017/12/22 10:15:37 icmp wp.pl OK
+2017/12/22 10:15:37 http wp.pl OK
+2017/12/22 10:15:37 icmp 8.8.8.8 OK
+2017/12/22 10:15:42 http 8.8.8.8 CRITICAL
+2017/12/22 10:16:40 icmp onet.pl OK
+2017/12/22 10:16:40 http onet.pl OK
+2017/12/22 10:16:41 icmp wp.pl OK
+2017/12/22 10:16:41 http wp.pl OK
+2017/12/22 10:16:41 icmp 8.8.8.8 OK
+2017/12/22 10:16:46 http 8.8.8.8 CRITICAL
+2017/12/22 10:17:49 icmp bbc.co.uk OK
+2017/12/22 10:17:50 http bbc.co.uk OK
+2017/12/22 10:17:50 icmp onet.pl OK
+2017/12/22 10:17:50 http onet.pl OK
+2017/12/22 10:17:51 icmp wp.pl OK
+2017/12/22 10:17:51 http wp.pl OK
+2017/12/22 10:17:51 icmp 8.8.8.8 OK
+2017/12/22 10:17:56 http 8.8.8.8 CRITICAL
+2017/12/22 10:20:18 icmp mountain.com CRITICAL
+2017/12/22 10:20:19 http mountain.com OK
+2017/12/22 10:20:19 icmp bbc.co.uk OK
+2017/12/22 10:20:20 http bbc.co.uk OK
+2017/12/22 10:20:20 icmp onet.pl OK
+2017/12/22 10:20:20 http onet.pl OK
+2017/12/22 10:20:21 icmp wp.pl OK
+2017/12/22 10:20:21 http wp.pl OK
+2017/12/22 10:20:21 icmp 8.8.8.8 OK
+2017/12/22 10:20:26 http 8.8.8.8 CRITICAL
+2017/12/22 10:22:21 icmp mountain.com CRITICAL
+2017/12/22 10:22:22 http mountain.com OK
+2017/12/22 10:22:22 icmp bbc.co.uk OK
+2017/12/22 10:22:23 http bbc.co.uk OK
+2017/12/22 10:22:23 icmp onet.pl OK
+2017/12/22 10:22:26 http onet.pl OK
+2017/12/22 10:22:26 icmp wp.pl OK
+2017/12/22 10:22:26 http wp.pl OK
+2017/12/22 10:22:26 icmp 8.8.8.8 OK
+2017/12/22 10:22:31 http 8.8.8.8 CRITICAL
+2017/12/22 10:25:30 icmp mountain.com CRITICAL
+2017/12/22 10:25:31 http mountain.com OK
+2017/12/22 10:25:31 icmp bbc.co.uk OK
+2017/12/22 10:25:32 http bbc.co.uk OK
+2017/12/22 10:25:32 icmp onet.pl OK
+2017/12/22 10:25:32 http onet.pl OK
+2017/12/22 10:25:32 icmp wp.pl OK
+2017/12/22 10:25:33 http wp.pl OK
+2017/12/22 10:25:33 icmp 8.8.8.8 OK
+2017/12/22 10:25:38 http 8.8.8.8 CRITICAL
+2017/12/22 11:08:10 icmp mountain.com CRITICAL
+2017/12/22 11:08:12 http mountain.com OK
+2017/12/22 11:08:12 icmp bbc.co.uk OK
+2017/12/22 11:08:12 http bbc.co.uk OK
+2017/12/22 11:08:12 icmp onet.pl OK
+2017/12/22 11:08:13 http onet.pl OK
+2017/12/22 11:08:13 icmp wp.pl OK
+2017/12/22 11:08:13 http wp.pl OK
+2017/12/22 11:08:13 icmp 8.8.8.8 OK
+2017/12/22 11:08:18 http 8.8.8.8 CRITICAL
+2017/12/22 11:10:10 icmp mountain.com CRITICAL
+2017/12/22 11:10:10 http mountain.com OK
+2017/12/22 11:10:10 icmp bbc.co.uk OK
+2017/12/22 11:10:11 http bbc.co.uk OK
+2017/12/22 11:10:11 icmp onet.pl OK
+2017/12/22 11:10:11 http onet.pl OK
+2017/12/22 11:10:11 icmp wp.pl OK
+2017/12/22 11:10:12 http wp.pl OK
+2017/12/22 11:10:12 icmp 8.8.8.8 OK
+2017/12/22 11:10:17 http 8.8.8.8 CRITICAL
+2017/12/22 11:11:10 icmp mountain.com CRITICAL
+2017/12/22 11:11:10 http mountain.com OK
+2017/12/22 11:11:10 icmp bbc.co.uk OK
+2017/12/22 11:11:11 http bbc.co.uk OK
+2017/12/22 11:11:11 icmp onet.pl OK
+2017/12/22 11:11:11 http onet.pl OK
+2017/12/22 11:11:11 icmp wp.pl OK
+2017/12/22 11:11:12 http wp.pl OK
+2017/12/22 11:11:12 icmp 8.8.8.8 OK
+2017/12/22 11:11:17 http 8.8.8.8 CRITICAL
+2017/12/22 11:15:41 icmp mountain.com CRITICAL
+2017/12/22 11:15:42 http mountain.com OK
+2017/12/22 11:15:42 icmp bbc.co.uk OK
+2017/12/22 11:15:43 http bbc.co.uk OK
+2017/12/22 11:15:43 icmp onet.pl OK
+2017/12/22 11:15:43 http onet.pl OK
+2017/12/22 11:15:43 icmp wp.pl OK
+2017/12/22 11:15:44 http wp.pl OK
+2017/12/22 11:15:44 icmp 8.8.8.8 OK
+2017/12/22 11:15:49 http 8.8.8.8 CRITICAL
+2017/12/22 12:02:32 icmp mountain.com CRITICAL
+2017/12/22 12:02:33 http mountain.com OK
+2017/12/22 12:02:33 icmp bbc.co.uk OK
+2017/12/22 12:02:34 http bbc.co.uk OK
+2017/12/22 12:02:34 icmp onet.pl OK
+2017/12/22 12:02:34 http onet.pl OK
+2017/12/22 12:02:34 icmp wp.pl OK
+2017/12/22 12:02:35 http wp.pl OK
+2017/12/22 12:02:35 icmp 8.8.8.8 OK
+2017/12/22 12:02:40 http 8.8.8.8 CRITICAL
+2017/12/22 12:03:32 icmp mountain.com CRITICAL
+2017/12/22 12:03:32 http mountain.com OK
+2017/12/22 12:03:32 icmp bbc.co.uk OK
+2017/12/22 12:03:33 http bbc.co.uk OK
+2017/12/22 12:03:33 icmp onet.pl OK
+2017/12/22 12:03:33 http onet.pl OK
+2017/12/22 12:03:33 icmp wp.pl OK
+2017/12/22 12:03:34 http wp.pl OK
+2017/12/22 12:03:34 icmp 8.8.8.8 OK
+2017/12/22 12:03:39 http 8.8.8.8 CRITICAL
+2017/12/22 12:03:47 icmp mountain.com CRITICAL
+2017/12/22 12:03:48 http mountain.com OK
+2017/12/22 12:03:48 icmp bbc.co.uk OK
+2017/12/22 12:03:49 http bbc.co.uk OK
+2017/12/22 12:03:49 icmp onet.pl OK
+2017/12/22 12:03:49 http onet.pl OK
+2017/12/22 12:03:49 icmp wp.pl OK
+2017/12/22 12:03:49 http wp.pl OK
+2017/12/22 12:03:49 icmp 8.8.8.8 OK
+2017/12/22 12:03:54 http 8.8.8.8 CRITICAL
+2017/12/22 12:04:47 icmp mountain.com CRITICAL
+2017/12/22 12:04:47 http mountain.com OK
+2017/12/22 12:04:47 icmp bbc.co.uk OK
+2017/12/22 12:04:48 http bbc.co.uk OK
+2017/12/22 12:04:48 icmp onet.pl OK
+2017/12/22 12:04:48 http onet.pl OK
+2017/12/22 12:04:48 icmp wp.pl OK
+2017/12/22 12:04:49 http wp.pl OK
+2017/12/22 12:04:49 icmp 8.8.8.8 OK
+2017/12/22 12:04:54 http 8.8.8.8 CRITICAL
+2017/12/23 13:39:11 icmp mountain.com CRITICAL
+2017/12/23 13:39:12 http mountain.com OK
+2017/12/23 13:39:12 icmp bbc.co.uk OK
+2017/12/23 13:39:13 http bbc.co.uk OK
+2017/12/23 13:39:13 icmp onet.pl OK
+2017/12/23 13:39:13 http onet.pl OK
+2017/12/23 13:39:14 icmp wp.pl OK
+2017/12/23 13:39:14 http wp.pl OK
+2017/12/23 13:39:14 icmp 8.8.8.8 OK
+2017/12/23 13:39:19 http 8.8.8.8 CRITICAL
+2018/01/08 10:23:11 icmp mountain.com CRITICAL
+2018/01/08 10:23:12 http mountain.com OK
+2018/01/08 10:23:12 icmp bbc.co.uk OK
+2018/01/08 10:23:13 http bbc.co.uk OK
+2018/01/08 10:23:13 icmp onet.pl OK
+2018/01/08 10:23:13 http onet.pl OK
+2018/01/08 10:23:14 icmp wp.pl OK
+2018/01/08 10:23:14 http wp.pl OK
+2018/01/08 10:23:14 icmp 8.8.8.8 OK
+2018/01/08 10:23:19 http 8.8.8.8 CRITICAL
+2018/01/31 10:40:15 icmp mountain.com CRITICAL
+2018/01/31 10:40:16 http mountain.com OK
+2018/01/31 10:40:16 icmp bbc.co.uk OK
+2018/01/31 10:40:16 http bbc.co.uk OK
+2018/01/31 10:40:16 icmp onet.pl OK
+2018/01/31 10:40:16 http onet.pl OK
+2018/01/31 10:40:16 icmp wp.pl OK
+2018/01/31 10:40:17 http wp.pl OK
+2018/01/31 10:40:17 icmp 8.8.8.8 OK
+2018/01/31 10:40:22 http 8.8.8.8 CRITICAL
+2018/01/31 10:40:53 icmp mountain.com CRITICAL
+2018/01/31 10:40:54 http mountain.com OK
+2018/01/31 10:40:54 icmp bbc.co.uk OK
+2018/01/31 10:40:54 http bbc.co.uk OK
+2018/01/31 10:40:54 icmp onet.pl OK
+2018/01/31 10:40:55 http onet.pl OK
+2018/01/31 10:40:55 icmp wp.pl OK
+2018/01/31 10:40:55 http wp.pl OK
+2018/01/31 10:40:55 icmp 8.8.8.8 OK
+2018/01/31 10:41:00 http 8.8.8.8 CRITICAL

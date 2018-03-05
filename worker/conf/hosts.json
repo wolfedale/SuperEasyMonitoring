@@ -1,0 +1,79 @@
+{
+  "hosts": [
+    {
+      "hostname" : "mountain.com",
+      "icmp" : {
+        "enabled" : true,
+        "timeout" : 2
+      },
+      "http" : {
+        "enabled" : true,
+        "timeout" : 5,
+        "port" :    80
+      },
+      "tcp" : {
+        "enabled" : false
+      }
+    },
+    {
+      "hostname" : "bbc.co.uk",
+      "icmp" : {
+        "enabled" : true,
+        "timeout" : 2
+      },
+      "http" : {
+        "enabled" : true,
+        "timeout" : 5,
+        "port" :    88
+      },
+      "tcp" : {
+        "enabled" : false
+      }
+    },
+    {
+      "hostname" : "onet.pl",
+      "icmp" : {
+        "enabled" : true,
+        "timeout" : 2
+      },
+      "http" : {
+        "enabled" : true,
+        "timeout" : 5,
+        "port" :    80
+      },
+      "tcp" : {
+        "enabled" : false
+      }
+    },
+    {
+      "hostname" : "wp.pl",
+      "icmp" : {
+        "enabled" : true,
+        "timeout" : 1
+      },
+      "http" : {
+        "enabled" : true,
+        "timeout" : 5,
+        "port" : 80
+      },
+      "tcp" : {
+        "enabled" : false
+      }
+    },
+     {
+       "hostname" : "8.8.8.8",
+       "icmp" : {
+         "enabled" : true,
+         "timeout" : 1
+       },
+       "http" : {
+         "enabled" : true,
+         "timeout" : 5,
+         "port" : 80
+       },
+       "tcp" : {
+         "enabled" : false
+       }
+     }
+  ]
+}
